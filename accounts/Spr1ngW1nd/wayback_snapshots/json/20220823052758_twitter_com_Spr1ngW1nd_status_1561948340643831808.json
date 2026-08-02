@@ -1,0 +1,110 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Aug 23 05:27:58 +0000 2022",
+  "display_text_range": [
+    38,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1524410664449679363,
+        "id_str": "1524410664449679363",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "被训诫而不敢冲塔的老叶（晶哥饶了我吧）",
+        "screen_name": "TAKOYAKI8964XJP"
+      },
+      {
+        "id": 1432894323121537025,
+        "id_str": "1432894323121537025",
+        "indices": [
+          17,
+          27
+        ],
+        "name": "ZHGR-阿草🇽🇰",
+        "screen_name": "100Alayna"
+      },
+      {
+        "id": 1272405078683430913,
+        "id_str": "1272405078683430913",
+        "indices": [
+          28,
+          37
+        ],
+        "name": "🚩葉洪文🏴习近平",
+        "screen_name": "49addict"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1561948340643831808,
+  "id_str": "1561948340643831808",
+  "in_reply_to_screen_name": "TAKOYAKI8964XJP",
+  "in_reply_to_status_id": 1561685704819609601,
+  "in_reply_to_status_id_str": "1561685704819609601",
+  "in_reply_to_user_id": 1524410664449679363,
+  "in_reply_to_user_id_str": "1524410664449679363",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@TAKOYAKI8964XJP @100Alayna @49addict 最近一次我看到他有出现在某个电台里",
+  "timestamp_ms": "1661232478663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Jun 04 09:55:35 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "顺男 温和派 推文内容包括但不限于: 键政 生活日常 药物滥用 药理学 违禁药物合成路线 可互fo 药物滥用的内容相关会转发到@Overdose_Wind /#大支黑运动/#StandWithUkraine/#TheGreatTranslationMovement/",
+    "favourites_count": 3376,
+    "follow_request_sent": null,
+    "followers_count": 361,
+    "following": null,
+    "friends_count": 292,
+    "geo_enabled": false,
+    "id": 1533024617811812352,
+    "id_str": "1533024617811812352",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 1,
+    "location": "Japan",
+    "name": "Spring风",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533024617811812352/1660383960",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1544961960265105411/8Rq_ewhF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1544961960265105411/8Rq_ewhF_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Spr1ngW1nd",
+    "statuses_count": 2581,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

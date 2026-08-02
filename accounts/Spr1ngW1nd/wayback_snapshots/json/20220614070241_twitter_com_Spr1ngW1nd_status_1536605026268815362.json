@@ -1,0 +1,481 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 14 07:02:41 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/uTEI09YYR2",
+        "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+        "id": 1536555527236616192,
+        "id_str": "1536555527236616192",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+        "sizes": {
+          "large": {
+            "h": 1359,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 954
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 540
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1536555568437121025,
+        "source_status_id_str": "1536555568437121025",
+        "source_user_id": 1249525383797456898,
+        "source_user_id_str": "1249525383797456898",
+        "type": "photo",
+        "url": "https://t.co/uTEI09YYR2"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1249525383797456898,
+        "id_str": "1249525383797456898",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "screen_name": "jakobsonradical"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/uTEI09YYR2",
+        "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+        "id": 1536555527236616192,
+        "id_str": "1536555527236616192",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+        "sizes": {
+          "large": {
+            "h": 1359,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 954
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 540
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1536555568437121025,
+        "source_status_id_str": "1536555568437121025",
+        "source_user_id": 1249525383797456898,
+        "source_user_id_str": "1249525383797456898",
+        "type": "photo",
+        "url": "https://t.co/uTEI09YYR2"
+      },
+      {
+        "display_url": "pic.twitter.com/uTEI09YYR2",
+        "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+        "id": 1536555539513356288,
+        "id_str": "1536555539513356288",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVLxH0ZaMAA3MZD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FVLxH0ZaMAA3MZD.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1072
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 628
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 356
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1536555568437121025,
+        "source_status_id_str": "1536555568437121025",
+        "source_user_id": 1249525383797456898,
+        "source_user_id_str": "1249525383797456898",
+        "type": "photo",
+        "url": "https://t.co/uTEI09YYR2"
+      },
+      {
+        "display_url": "pic.twitter.com/uTEI09YYR2",
+        "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+        "id": 1536555555774697472,
+        "id_str": "1536555555774697472",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVLxIw-akAAfhAz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FVLxIw-akAAfhAz.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1023
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 599
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 340
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1536555568437121025,
+        "source_status_id_str": "1536555568437121025",
+        "source_user_id": 1249525383797456898,
+        "source_user_id_str": "1249525383797456898",
+        "type": "photo",
+        "url": "https://t.co/uTEI09YYR2"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1536605026268815362,
+  "id_str": "1536605026268815362",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 03:46:09 +0000 2022",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uTEI09YYR2",
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+          "id": 1536555527236616192,
+          "id_str": "1536555527236616192",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1359,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 954
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 540
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uTEI09YYR2"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uTEI09YYR2",
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+          "id": 1536555527236616192,
+          "id_str": "1536555527236616192",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVLxHGqaAAA2ISp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1359,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 954
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 540
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uTEI09YYR2"
+        },
+        {
+          "display_url": "pic.twitter.com/uTEI09YYR2",
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+          "id": 1536555539513356288,
+          "id_str": "1536555539513356288",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVLxH0ZaMAA3MZD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVLxH0ZaMAA3MZD.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1072
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 628
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 356
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uTEI09YYR2"
+        },
+        {
+          "display_url": "pic.twitter.com/uTEI09YYR2",
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1536555568437121025/photo/1",
+          "id": 1536555555774697472,
+          "id_str": "1536555555774697472",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVLxIw-akAAfhAz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVLxIw-akAAfhAz.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1023
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 599
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 340
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uTEI09YYR2"
+        }
+      ]
+    },
+    "favorite_count": 42,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1536555568437121025,
+    "id_str": "1536555568437121025",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "经典回顾：胡锡进表示，中国干部的财产不能公开，公职人员也需要“隐私”。 https://t.co/uTEI09YYR2",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 13 02:30:47 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Hi, everyone. I've been using Twitter for several yrs and this is my alt. 语言：中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+      "favourites_count": 40935,
+      "follow_request_sent": null,
+      "followers_count": 10607,
+      "following": null,
+      "friends_count": 2194,
+      "geo_enabled": true,
+      "id": 1249525383797456898,
+      "id_str": "1249525383797456898",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 63,
+      "location": null,
+      "name": "Jacobson🌎🌸贴贴BOT",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249525383797456898/1636382111",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jakobsonradical",
+      "statuses_count": 9358,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @jakobsonradical: 经典回顾：胡锡进表示，中国干部的财产不能公开，公职人员也需要“隐私”。 https://t.co/uTEI09YYR2",
+  "timestamp_ms": "1655190161660",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Jun 04 09:55:35 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 303,
+    "follow_request_sent": null,
+    "followers_count": 9,
+    "following": null,
+    "friends_count": 78,
+    "geo_enabled": false,
+    "id": 1533024617811812352,
+    "id_str": "1533024617811812352",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "Japan",
+    "name": "Spring风",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1533089175611682817/9-II5wqU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1533089175611682817/9-II5wqU_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Spr1ngW1nd",
+    "statuses_count": 431,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

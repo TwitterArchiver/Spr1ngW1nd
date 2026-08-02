@@ -1,0 +1,27 @@
+{
+  "name": "Spring风#参宿四",
+  "username": "@Spr1ngW1nd",
+  "bio": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+  "location": "Japan",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "hashtags": [
+      {
+        "end": 46,
+        "start": 29,
+        "tag": "StandWithUkraine"
+      }
+    ],
+    "mentions": [
+      {
+        "end": 27,
+        "start": 13,
+        "username": "Overdose_Wind"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg"
+}
